@@ -1,6 +1,6 @@
 /* Reset and general styling */
 body {
-    background: rgba(0, 0, 0, 0.6) url("/assets/GS.jpg") center center fixed;
+    background: rgba(0, 0, 0, 0.6) url("assets/GS.jpg") center center fixed;
     background-size: cover;
     background-blend-mode: darken;
     font-family: Arial, sans-serif;
