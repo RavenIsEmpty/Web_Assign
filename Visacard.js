@@ -98,7 +98,7 @@ new Vue({
       alert("Your bike has been added to the cart!");
 
       // Redirect to the bike page
-      window.location.href = "http://127.0.0.1:3000/bike.html"; // Replace with your actual bike page URL
+      window.location.href = "https://ravenisempty.github.io/Web_Assign/bike.html"; // Replace with your actual bike page URL
     }
   }
 });
